@@ -1,9 +1,9 @@
 {
   "name": "bscloud-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "bin": {
-    "bs": "./bin/bs.js"
+    "bs": "./bin/bs"
   },
   "directories": {
     "lib": "lib"
